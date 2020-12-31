@@ -50,7 +50,7 @@ secure tiles with crowns — these treasures help to significantly boost the gra
 [Amazon](https://amzn.to/2JwyHy4){:target="_blank"},
 [BoardGameGeek](https://boardgamegeek.com/boardgame/204583/kingdomino){:target="_blank"}
 
-**Enjoy playing Kingdomino? Try this next:** [Cartographers (2019)](https://boardgamegeek.com/boardgame/263918/cartographers){:target="_blank"}
+**Enjoy playing Kingdomino? Try this next:** [Sagrada (2017)](https://boardgamegeek.com/boardgame/199561/sagrada){:target="_blank"}
 
 &nbsp;  &nbsp;  
 
@@ -147,8 +147,7 @@ they get out of hand. You must discuss your options and work together in order t
 [Amazon](https://amzn.to/3o3Z2Tk){:target="_blank"}, 
 [BoardGameGeek](https://boardgamegeek.com/boardgame/30549/pandemic){:target="_blank"}
 
-**Enjoy playing Pandemic? Try this next:**  [Pandemic Legacy: Season 1 (2015)](https://boardgamegeek.com/boardgame/161936/pandemic-legacy-season-1){:target="_blank"} / 
-[Horrified (2019)](https://boardgamegeek.com/boardgame/282524/horrified){:target="_blank"}
+**Enjoy playing Pandemic? Try this next:** [Horrified (2019)](https://boardgamegeek.com/boardgame/282524/horrified){:target="_blank"}
 
 &nbsp;  &nbsp;  
 
@@ -329,7 +328,7 @@ the ever-changing environment?
 [Amazon](https://amzn.to/3rK2dSr){:target="_blank"}, 
 [BoardGameGeek](https://boardgamegeek.com/boardgame/182134/evolution-climate){:target="_blank"}
 
-**Enjoy playing Evolution: Climate? Try this next:** [Lords of Waterdeep (2012)](https://boardgamegeek.com/boardgame/110327/lords-waterdeep){:target="_blank"}
+**Enjoy playing Evolution: Climate? Try this next:** [Race for the Galaxy (2007)](https://boardgamegeek.com/boardgame/28143/race-galaxy){:target="_blank"}
 
 &nbsp;  &nbsp;  
 
@@ -376,6 +375,30 @@ diverse and thriving aviary?
 **Enjoy playing Wingspan? Try this next:** [Terraforming Mars (2016)](https://boardgamegeek.com/boardgame/167791/terraforming-mars){:target="_blank"}
 
 &nbsp;  &nbsp;  
+
+
+#### Lords of Waterdeep (2012)
+
+{: style="text-align:center"}  
+![Lords of Waterdeep](/assets/images/lords-of-waterdeep.jpg)
+
+In Lords of Waterdeep, you play as a powerful lord vying for control of the resplendent city of Waterdeep in the
+Dungeons and Dragons universe. This game is an excellent introduction to the worker placement mechanic common in many
+modern board games, where in each turn you send out your agents to different locations to perform certain actions,
+blocking anyone else from using that same location until the next round. Recruit adventurers, make shady deals, and
+complete quests in order to increase your wealth and influence!
+
+- **Players:** 2 - 5
+- **Time:** 60 - 120 minutes
+- **Categories:** Worker Placement, Resource Management, Strategy
+- **Links:** [Video](https://www.youtube.com/watch?v=9d1LZ9Q4YU0){:target="_blank"}, 
+[Amazon](https://amzn.to/34YMIMp){:target="_blank"}, 
+[BoardGameGeek](https://boardgamegeek.com/boardgame/110327/lords-waterdeep){:target="_blank"}
+
+**Enjoy playing Lords of Waterdeep? Try this next:** [Everdell (2018)](https://boardgamegeek.com/boardgame/199792/everdell){:target="_blank"}
+
+&nbsp;  &nbsp; 
+
 
 ---
 
@@ -453,14 +476,15 @@ get to choose first amongst the gifts you present them. Can you anticipate your 
 win the favor of the most geishas?
 
 
-- **Players:** 2 - 4
-- **Time:** 90 minutes
+- **Players:** 2
+- **Time:** 15 minutes
 - **Categories:** I Cut You Choose, Area Majority, Hand Management
 - **Links:** [Video](https://www.youtube.com/watch?v=AweJ7eTFApE){:target="_blank"}, 
 [Amazon](https://amzn.to/34Zdswj){:target="_blank"}, 
 [BoardGameGeek](https://boardgamegeek.com/boardgame/158600/hanamikoji){:target="_blank"}
 
-**Enjoy playing Hanamikoji? Try this next:** [Jaipur (2009)](https://boardgamegeek.com/boardgame/54043/jaipur){:target="_blank"}
+**Enjoy playing Hanamikoji? Try this next:** [Battle Line (2000)](https://boardgamegeek.com/boardgame/760/battle-line){:target="_blank"} /
+[Jaipur (2009)](https://boardgamegeek.com/boardgame/54043/jaipur){:target="_blank"}
 
 &nbsp;  &nbsp;  
 
