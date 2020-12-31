@@ -47,7 +47,7 @@ secure tiles with crowns — these treasures help to significantly boost the gra
 - **Time:** 20 minutes
 - **Categories:** Tile Placement, Light Strategy, Territory Building
 - **Links:** [Video](https://www.youtube.com/watch?v=smbwBPmP4Ms){:target="_blank"}, 
-[Amazon](https://www.amazon.com/Blue-Orange-Kingdomino-Winning-Strategy/dp/B01N3A4070){:target="_blank"},
+[Amazon](https://amzn.to/2JwyHy4){:target="_blank"},
 [BoardGameGeek](https://boardgamegeek.com/boardgame/204583/kingdomino){:target="_blank"}
 
 **Enjoy playing Kingdomino? Try this next:** [Cartographers (2019)](https://boardgamegeek.com/boardgame/263918/cartographers){:target="_blank"}
@@ -68,7 +68,7 @@ the best properties, you’ll also have to use your wits to sell them at the bes
 - **Time:** 20 minutes
 - **Categories:** Auction/Bidding, Game Theory
 - **Links:** [Video](https://www.youtube.com/watch?v=OZ0RLgnBp6o){:target="_blank"}, 
-[Amazon](https://www.google.com){:target="_blank"}, 
+[Amazon](https://amzn.to/381qzPs){:target="_blank"}, 
 [BoardGameGeek](https://boardgamegeek.com/boardgame/172/sale){:target="_blank"}
 
 **Enjoy playing For Sale? Try this next:** [Modern Art (1992)](https://boardgamegeek.com/boardgame/118/modern-art){:target="_blank"}
@@ -90,7 +90,7 @@ brilliant show for the crowd!
 - **Time:** 25 minutes
 - **Categories:** Deduction, Memory, Cooperative
 - **Links:** [Video](https://www.youtube.com/watch?v=d_js_3S_7K8){:target="_blank"},
-Amazon, 
+[Amazon](https://amzn.to/38O6cET){:target="_blank"}, 
 [BoardGameGeek](https://boardgamegeek.com/boardgame/98778/hanabi){:target="_blank"}
 
 **Enjoy playing Hanabi? Try this next:** [Letter Jam (2019)](https://boardgamegeek.com/boardgame/275467/letter-jam){:target="_blank"}
@@ -112,7 +112,7 @@ ground up!
 - **Time:** 30 minutes
 - **Categories:** Engine Building, Light Strategy, Card Drafting
 - **Links:** [Video](https://www.youtube.com/watch?v=rue8-jvbc9I){:target="_blank"}, 
-Amazon, 
+[Amazon](https://amzn.to/2MmfDUq){:target="_blank"}, 
 [BoardGameGeek](https://boardgamegeek.com/boardgame/148228/splendor){:target="_blank"}
 
 **Enjoy playing Splendor? Try this next:** [Azul (2017)](https://boardgamegeek.com/boardgame/230802/azul){:target="_blank"} / 
@@ -144,7 +144,7 @@ they get out of hand. You must discuss your options and work together in order t
 - **Time:** 45 minutes
 - **Categories:** Strategy, Optimization, Cooperative
 - **Links:** [Video](https://www.youtube.com/watch?v=ojkScPkdgsk){:target="_blank"}, 
-Amazon, 
+[Amazon](https://amzn.to/3o3Z2Tk){:target="_blank"}, 
 [BoardGameGeek](https://boardgamegeek.com/boardgame/30549/pandemic){:target="_blank"}
 
 **Enjoy playing Pandemic? Try this next:**  [Pandemic Legacy: Season 1 (2015)](https://boardgamegeek.com/boardgame/161936/pandemic-legacy-season-1){:target="_blank"} / 
@@ -167,7 +167,7 @@ win the right tricks at the right time with only one chance to communicate with 
 - **Time:** 20 minutes
 - **Categories:** Trick-taking, Cooperative 
 - **Links:** [Video](https://www.youtube.com/watch?v=eyfxwIrL7Qc){:target="_blank"}, 
-Amazon, 
+[Amazon](https://amzn.to/3aWysb5){:target="_blank"}, 
 [BoardGameGeek](https://boardgamegeek.com/boardgame/284083/crew-quest-planet-nine){:target="_blank"}
 
 **Enjoy playing The Crew? Try this next:** [The Shipwreck Arcana (2017)](https://boardgamegeek.com/boardgame/220517/shipwreck-arcana){:target="_blank"}
@@ -189,7 +189,7 @@ investigators interpret the clues correctly and discover the truth behind what's
 - **Time:** 30 - 45 minutes
 - **Categories:** Deduction, Creativity, Cooperative
 - **Links:** [Video](https://www.youtube.com/watch?v=0CRrhFUN-zk){:target="_blank"}, 
-Amazon, 
+[Amazon](https://amzn.to/3pH0hrJ){:target="_blank"}, 
 [BoardGameGeek](https://boardgamegeek.com/boardgame/301767/mysterium-park){:target="_blank"}
 
 **Enjoy playing Mysterium Park? Try this next:** [Dixit (2008)](https://boardgamegeek.com/boardgame/39856/dixit){:target="_blank"}
@@ -221,7 +221,7 @@ hint - what's a company that's 65% evil, or what's something that's 25% ethical 
 - **Time:** 30 minutes
 - **Categories:** Creativity, Discussion, Team vs. Team
 - **Links:** [Video](https://www.youtube.com/watch?v=XbX5nVcA3Xw){:target="_blank"}, 
-Amazon, 
+[Amazon](https://amzn.to/2L8rGnA){:target="_blank"}, 
 [BoardGameGeek](https://boardgamegeek.com/boardgame/262543/wavelength){:target="_blank"}
 
 **Enjoy playing Wavelength? Try this next:** [Monikers (2015)](https://boardgamegeek.com/boardgame/156546/monikers){:target="_blank"}
@@ -244,7 +244,7 @@ mistrust…
 - **Time:** 30 - 45 minutes
 - **Categories:** Social Deduction, Hidden Identities, Bluffing, Negotiation
 - **Links:** [Video](https://www.youtube.com/watch?v=rXlK3NZjLGc){:target="_blank"}, 
-Amazon, 
+[Amazon](https://amzn.to/3rHdlzo){:target="_blank"}, 
 [BoardGameGeek](https://boardgamegeek.com/boardgame/128882/resistance-avalon){:target="_blank"}
 
 **Enjoy playing The Resistance: Avalon? Try this next:** [Secret Hitler (2016)](https://boardgamegeek.com/boardgame/188834/secret-hitler){:target="_blank"}
@@ -266,7 +266,7 @@ lead your opponents astray? Watch out, as they’ll be listening in on all your 
 - **Time:** 30 - 45 minutes
 - **Categories:** Deduction, Word Game, Team vs. Team
 - **Links:** [Video](https://www.youtube.com/watch?v=2DBg7Z2-pQ4){:target="_blank"}, 
-Amazon, 
+[Amazon](https://amzn.to/2KP7OWS){:target="_blank"}, 
 [BoardGameGeek](https://boardgamegeek.com/boardgame/225694/decrypto){:target="_blank"}
 
 **Enjoy playing Decrypto? Try this next:** [Codenames (2105)](https://boardgamegeek.com/boardgame/178900/codenames){:target="_blank"} / 
@@ -290,7 +290,7 @@ deducted from your own!
 - **Time:** 30 - 45 minutes
 - **Categories:** Drawing, Real Time
 - **Links:** [Video](https://www.youtube.com/watch?v=xQyIYlQHxUw){:target="_blank"}, 
-Amazon, 
+[Amazon](https://amzn.to/3pzpF2P){:target="_blank"}, 
 [BoardGameGeek](https://boardgamegeek.com/boardgame/252526/pictomania-second-edition){:target="_blank"}
 
 PS: Think this is easy for you? Wait until you reach the level 4 words, where you’ll have to think of a way to draw
@@ -326,7 +326,7 @@ the ever-changing environment?
 - **Time:** 60 minutes
 - **Categories:** Hand Management, Strategy
 - **Links:** [Video](https://www.youtube.com/watch?v=Y_jpXV6jgpw){:target="_blank"}, 
-Amazon, 
+[Amazon](https://amzn.to/3rK2dSr){:target="_blank"}, 
 [BoardGameGeek](https://boardgamegeek.com/boardgame/182134/evolution-climate){:target="_blank"}
 
 **Enjoy playing Evolution: Climate? Try this next:** [Lords of Waterdeep (2012)](https://boardgamegeek.com/boardgame/110327/lords-waterdeep){:target="_blank"}
@@ -348,7 +348,7 @@ them to your deck to make it larger and stronger!
 - **Time:** 60 - 90 minutes
 - **Categories:** Deck Building, Strategy
 - **Links:** [Video](https://www.youtube.com/watch?v=EZQyr5JkbBY){:target="_blank"}, 
-Amazon, 
+[Amazon](https://amzn.to/3b0LKTN){:target="_blank"}, 
 [BoardGameGeek](https://boardgamegeek.com/boardgame/201808/clank-deck-building-adventure){:target="_blank"}
 
 **Enjoy playing Clank? Try this next:** [Aeon's End (2016)](https://boardgamegeek.com/boardgame/191189/aeons-end){:target="_blank"}
@@ -370,7 +370,7 @@ diverse and thriving aviary?
 - **Time:** 45 - 60 minutes
 - **Categories:** Card Drafting, Engine Building, Strategy
 - **Links:** [Video](https://www.youtube.com/watch?v=lgDgcLI2B0U){:target="_blank"}, 
-Amazon, 
+[Amazon](https://amzn.to/3hu3JDv){:target="_blank"}, 
 [BoardGameGeek](https://boardgamegeek.com/boardgame/266192/wingspan){:target="_blank"}
 
 **Enjoy playing Wingspan? Try this next:** [Terraforming Mars (2016)](https://boardgamegeek.com/boardgame/167791/terraforming-mars){:target="_blank"}
@@ -402,7 +402,7 @@ together the evidence and connect the dots to catch the killer in the shortest a
 - **Time:** 60 - 90 minutes
 - **Categories:** Cooperative, Deduction, Story-driven, Murder/Mystery
 - **Links:** [Video](https://www.youtube.com/watch?v=PTaY-GE_bTM){:target="_blank"}, 
-Amazon, 
+[Amazon](https://amzn.to/35fln9d){:target="_blank"}, 
 [BoardGameGeek](https://boardgamegeek.com/boardgame/239188/chronicles-crime){:target="_blank"}
 
 **Enjoy playing Chronicles of Crime? Try this next:** 
@@ -426,7 +426,7 @@ have what it takes to become a successful temporal agent?
 - **Time:** 90 minutes
 - **Categories:** Cooperative, Story-driven, Puzzle
 - **Links:** [Video](https://www.youtube.com/watch?v=M3gVCTcIang){:target="_blank"}, 
-Amazon, 
+[Amazon](https://amzn.to/3hDQgsQ){:target="_blank"}, 
 [BoardGameGeek](https://boardgamegeek.com/boardgame/146508/time-stories){:target="_blank"}
 
 **Enjoy playing T.I.M.E Stories? Try this next:** [The 7th Continent (2017)](https://boardgamegeek.com/boardgame/180263/7th-continent){:target="_blank"}
@@ -457,7 +457,7 @@ win the favor of the most geishas?
 - **Time:** 90 minutes
 - **Categories:** I Cut You Choose, Area Majority, Hand Management
 - **Links:** [Video](https://www.youtube.com/watch?v=AweJ7eTFApE){:target="_blank"}, 
-Amazon, 
+[Amazon](https://amzn.to/34Zdswj){:target="_blank"}, 
 [BoardGameGeek](https://boardgamegeek.com/boardgame/158600/hanamikoji){:target="_blank"}
 
 **Enjoy playing Hanamikoji? Try this next:** [Jaipur (2009)](https://boardgamegeek.com/boardgame/54043/jaipur){:target="_blank"}
@@ -480,7 +480,7 @@ that still packs a large amount of strategic depth!
 - **Time:** 20 minutes
 - **Categories:** Abstract, Strategy
 - **Links:** [Video](https://www.youtube.com/watch?v=EZi-MZEylRQ){:target="_blank"}, 
-Amazon, 
+[Amazon](https://amzn.to/38JQoms){:target="_blank"}, 
 [BoardGameGeek](https://boardgamegeek.com/boardgame/194655/santorini){:target="_blank"}
 
 **Enjoy playing Santorini? Try this next:** [Patchwork (2014)](https://boardgamegeek.com/boardgame/163412/patchwork){:target="_blank"}
@@ -501,7 +501,7 @@ conditions, which path will you choose — military might, scientific superiorit
 - **Time:** 30 minutes
 - **Categories:** Card Drafting, Strategy
 - **Links:** [Video](https://www.youtube.com/watch?v=SxQkMRUvCJ8){:target="_blank"}, 
-Amazon, 
+[Amazon](https://amzn.to/34XfCg5){:target="_blank"}, 
 [BoardGameGeek](https://boardgamegeek.com/boardgame/173346/7-wonders-duel){:target="_blank"}
 
 **Enjoy playing 7 Wonders: Duel? Try this next:** [Star Realms (2014)](https://boardgamegeek.com/boardgame/147020/star-realms){:target="_blank"}
