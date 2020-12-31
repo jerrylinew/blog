@@ -286,7 +286,7 @@ those who got yours. Try your best with your own drawing though, as any of the p
 deducted from your own!
 
 - **Players:** 3 - 6
-- **Time:** 30 - 45 minutes
+- **Time:** 20 - 40 minutes
 - **Categories:** Drawing, Real Time
 - **Links:** [Video](https://www.youtube.com/watch?v=xQyIYlQHxUw){:target="_blank"}, 
 [Amazon](https://amzn.to/3pzpF2P){:target="_blank"}, 
@@ -465,7 +465,7 @@ have what it takes to become a successful temporal agent?
 Only have one partner to play with most of the time? There are plenty of games out there designed to be an amazing and fun experience for just two!
 &nbsp;
 
-#### Hanamikoji
+#### Hanamikoji (2013)
 
 {: style="text-align:center"}  
 ![Hanamikoji](/assets/images/hanamikoji.jpg)
@@ -512,7 +512,7 @@ that still packs a large amount of strategic depth!
 &nbsp;  &nbsp;  
 
 
-#### 7 Wonders: Duel
+#### 7 Wonders: Duel (2015)
 
 {: style="text-align:center"}  
 ![7 Wonders: Duel](/assets/images/7-wonders-duel.jpg)
