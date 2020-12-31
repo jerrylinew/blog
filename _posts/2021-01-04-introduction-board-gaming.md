@@ -37,7 +37,7 @@ also great for experienced board gamers looking for a quick warmup before longer
 #### Kingdomino (2016)
 
 {: style="text-align:center"}  
-![Kingdomino](/assets/images/kingdomino.jpg)
+![Kingdomino](/blog/assets/images/kingdomino.jpg)
 
 Who can build the most majestic kingdom using dominos? During each round, choose and connect a new domino to your 
 existing kingdom. However, if you pick the best tile, you’ll be picking last during the next round! Make sure to 
@@ -58,7 +58,7 @@ secure tiles with crowns — these treasures help to significantly boost the gra
 #### For Sale (1997)
 
 {: style="text-align:center"}  
-![For Sale](/assets/images/for-sale.jpg)  
+![For Sale](/blog/assets/images/for-sale.jpg)  
 
 In For Sale, join in the annual auction of properties of all different kinds, from a cardboard box to RV, tree house, 
 igloo or even a skyscraper! In this fast-paced game of bidding and bluffing, it’s not just about buying and hoarding 
@@ -79,7 +79,7 @@ the best properties, you’ll also have to use your wits to sell them at the bes
 #### Hanabi (2010)
 
 {: style="text-align:center"}  
-![Hanabi](/assets/images/hanabi.jpeg)
+![Hanabi](/blog/assets/images/hanabi.jpeg)
 
 In this fully cooperative card game, players work together to launch a spectacular firework display. Unfortunately, 
 it’s dark out — everyone must hold their cards backwards so that they can’t see their own cards! You must give each
@@ -101,7 +101,7 @@ Amazon,
 #### Splendor (2014)
 
 {: style="text-align:center"}  
-![Splendor](/assets/images/splendor.jpg)
+![Splendor](/blog/assets/images/splendor.jpg)
 
 In Splendor, take on the role of rich merchants working to turn raw gems into precious jewels, earning the attention
 of wealthy nobles. As you buy and build cards representing gem mines and shops, future purchases will become less
@@ -134,7 +134,7 @@ everything happens as a team!
 #### Pandemic (2008)
 
 {: style="text-align:center"}  
-![Pandemic](/assets/images/pandemic.jpg)
+![Pandemic](/blog/assets/images/pandemic.jpg)
   
 In Pandemic, several virulent diseases have broken out simultaneously all over the world! Play as researchers, medics,
 and scientists whose mission is to treat disease hotspots while researching cures for each of four plagues before
@@ -156,7 +156,7 @@ Amazon,
 #### The Crew (2019)
 
 {: style="text-align:center"}  
-![The Crew](/assets/images/the-crew.jpg)
+![The Crew](/blog/assets/images/the-crew.jpg)
   
 Go on exciting and increasingly more difficult missions in space to discover a new planet in this unique cooperative
 trick-taking game! At the beginning of every mission, each player must assign themselves tasks (cards) to handle,
@@ -178,7 +178,7 @@ Amazon,
 #### Mysterium Park (2020)
 
 {: style="text-align:center"}  
-![Mysterium Park](/assets/images/mysterium-park.png)
+![Mysterium Park](/blog/assets/images/mysterium-park.png)
   
 A theme park's former director disappeared and is now a ghost haunting the carnival — your group of talented psychic
 investigators have been tasked to identify the suspect and location related to the disappearance. One player, as the
@@ -210,7 +210,7 @@ and just allows everyone to have a great time!
 #### Wavelength (2019)
 
 {: style="text-align:center"}  
-![Wavelength](/assets/images/wavelength.jpeg)
+![Wavelength](/blog/assets/images/wavelength.jpeg)
 
 Once you jump into Wavelength, you'll be debating intently with your team on to what extent is a hot dog a sandwich,
 or how useful a degree in economics really is on a spectrum. You'll also be trying to give that perfect
@@ -232,7 +232,7 @@ Amazon,
 #### The Resistance: Avalon (2012)
 
 {: style="text-align:center"}  
-![The Resistance: Avalon](/assets/images/the-resistance-avalon.webp)
+![The Resistance: Avalon](/blog/assets/images/the-resistance-avalon.webp)
 
 A party is never complete without a social deduction game, and The Resistance: Avalon is one of the best in the
 category. Hidden amongst the knights and servants of King Arthur are the spies of the evil Mordred. As a group of
@@ -255,7 +255,7 @@ Amazon,
 #### Decrypto (2018)
 
 {: style="text-align:center"}  
-![Decrypto](/assets/images/decrypto.jpg)
+![Decrypto](/blog/assets/images/decrypto.jpg)
 
 In Decrypto, it’s tough enough to communicate with your team through ciphers while cracking your opponents secret
 code, but it’s even harder when they’re trying to do the same to your cryptic messages! Can you be clever and
@@ -278,7 +278,7 @@ Amazon,
 #### Pictomania (2011)
 
 {: style="text-align:center"}  
-![Pictomania](/assets/images/pictomania.jpg)
+![Pictomania](/blog/assets/images/pictomania.jpg)
 
 In Pictomania, you don’t have to be great at drawing to win, you just need to be able to create a quick sketch of
 your assigned word and make sense of your friends’ awful doodles in order to guess them the fastest! In this 
@@ -314,7 +314,7 @@ others, so be ready to put on your thinking caps!
 #### Evolution: Climate (2016)
 
 {: style="text-align:center"}  
-![Evolution: Climate](/assets/images/evolution-climate.jpg)
+![Evolution: Climate](/blog/assets/images/evolution-climate.jpg)
 
 When vegetation becomes scarce in a harsh and unforgiving ice age, will you adapt by becoming predators, hunting the
 other species to survive, or will you develop heavy fur to insulate yourself from the elements and fat tissue to store
@@ -337,7 +337,7 @@ Amazon,
 #### Clank! (2016)
 
 {: style="text-align:center"}  
-![Clank!](/assets/images/clank.jpg)
+![Clank!](/blog/assets/images/clank.jpg)
 
 In Clank!, don’t be greedy and dive too deep into the caverns for the best loot, as too much noise will wake the
 dragon! This game is an excellent intro to the deck building genre, where everyone starts with the same small deck of
@@ -359,7 +359,7 @@ Amazon,
 #### Wingspan (2019)
 
 {: style="text-align:center"}  
-![Wingspan](/assets/images/wingspan.jpg)
+![Wingspan](/blog/assets/images/wingspan.jpg)
 
 Build a network of wildlife preserves in order to discover and attract a diverse collection of birds to them in a
 game of Wingspan! As you grow out each of your three different habitats, you will continue to improve your abilities to
@@ -390,7 +390,7 @@ murders and crack cases together with your friends!
 #### Chronicles of Crime (2018)
 
 {: style="text-align:center"}  
-![Chronicles of Crime](/assets/images/chronicles-of-crime.png)
+![Chronicles of Crime](/blog/assets/images/chronicles-of-crime.png)
 
 In this cooperative crime investigation game, you play as a team of police officers and detectives solving criminal
 cases that are popping up in London. This will involve talking to witnesses, interrogating suspects, collecting
@@ -414,7 +414,7 @@ Amazon,
 #### T.I.M.E Stories (2015)
 
 {: style="text-align:center"}  
-![T.I.M.E Stories](/assets/images/time-stories.png)
+![T.I.M.E Stories](/blog/assets/images/time-stories.png)
 
 Travel back in time and take possession of local hosts as you seek to protect humanity by preventing temporal faults
 and paradoxes from occurring. In T.I.M.E stories, you will be exploring old cities, solving puzzles, surviving attacks
@@ -445,7 +445,7 @@ Only have one partner to play with most of the time? There are plenty of games o
 #### Hanamikoji
 
 {: style="text-align:center"}  
-![Hanamikoji](/assets/images/hanamikoji.jpg)
+![Hanamikoji](/blog/assets/images/hanamikoji.jpg)
 
 In Hanamikoji, you will compete to earn the favor of seven illustrious geishas by presenting them with gifts of their
 performance item of choice! You'll be dividing these tools and instruments into groups, but your opponent will often
@@ -468,7 +468,7 @@ Amazon,
 #### Santorini (2016)
 
 {: style="text-align:center"}  
-![Santorini](/assets/images/santorini.jpg)
+![Santorini](/blog/assets/images/santorini.jpg)
 
 In this game, players move two workers around the board while constructing the beautiful island of Santorini, racing
 to be the first person to reach the highest story of one of the buildings! Each player also starts with one of forty
@@ -491,7 +491,7 @@ Amazon,
 #### 7 Wonders: Duel
 
 {: style="text-align:center"}  
-![7 Wonders: Duel](/assets/images/7-wonders-duel.jpg)
+![7 Wonders: Duel](/blog/assets/images/7-wonders-duel.jpg)
 
 In 7 Wonders: Duel, players compete to build the grandest civilization over three ages! Take turns drafting various
 technologies and constructing wonders of the world as you amass more wealth and power. With three possible victory
