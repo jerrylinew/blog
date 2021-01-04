@@ -442,7 +442,7 @@ together the evidence and connect the dots to catch the killer in the shortest a
 Travel back in time and take possession of local hosts as you seek to protect humanity by preventing temporal faults
 and paradoxes from occurring. In T.I.M.E stories, you will be exploring old cities, solving puzzles, surviving attacks
 from creatures, and even jump from one host to another in order to complete your mission. Failure is not an option - if
-you die, your abilities lets you jump back to the beginning, armed with all the knowledge you have acquired - do you
+you die, your abilities lets you jump back to the beginning, armed with all the knowledge you have acquired. Do you
 have what it takes to become a successful temporal agent?
 
 - **Players:** 2 - 4
@@ -507,7 +507,8 @@ that still packs a large amount of strategic depth!
 [Amazon](https://amzn.to/38JQoms){:target="_blank"}, 
 [BoardGameGeek](https://boardgamegeek.com/boardgame/194655/santorini){:target="_blank"}
 
-**Enjoy playing Santorini? Try this next:** [Patchwork (2014)](https://boardgamegeek.com/boardgame/163412/patchwork){:target="_blank"}
+**Enjoy playing Santorini? Try this next:** [Patchwork (2014)](https://boardgamegeek.com/boardgame/163412/patchwork){:target="_blank"} / 
+[Onitama (2014)](https://boardgamegeek.com/boardgame/160477/onitama)
 
 &nbsp;  &nbsp;  
 
