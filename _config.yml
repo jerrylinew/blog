@@ -1,6 +1,6 @@
 # Site
 name: 'while True: learn()'
-description: 'A blog about data, learning, games, and learning through games.'
+description: 'A blog about games, behavioral science, learning, and data visualization'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
@@ -20,9 +20,10 @@ plugins:
 authors:
     jerry:
       name:           Jerry
-      site:           https://whiletruelearn.me
+      site:           https://whiletruelearnp
       avatar:         assets/images/avatar.png
-      bio:            "Jerry is a software engineer who transforms food into code. When not hacking away or getting lost in data,
+      bio:            "Jerry is a software engineer and board game enthusiast who gets excited about gaming, education,
+                       and crafting learning experiences through games. When not hacking away or getting lost in data,
                        he likes to play board/video games, teach math & computer science, and play badminton."
       email:          jerrylinew@gmail.com
       twitter:        https://twitter.com/whiletruelearnp

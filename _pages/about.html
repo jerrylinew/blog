@@ -1,0 +1,31 @@
+---
+title: "Jerry"
+layout: default
+permalink: "/about.html"
+---
+<div class="container">
+<div class="row justify-content-center">
+    <div class="col-md-7">
+        <div class="row align-items-center mb-5">
+            <div>
+                <p>{{ site.description }}</p>
+            </div>
+        </div>
+        <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4>
+            {% assign posts = site.posts | where:"author","jerry" %}
+            {% for post in posts %}
+            {% include main-loop-card.html %}
+            {% endfor %}
+    </div>
+    <div class="col-md-4 offset-md-1">
+        <h4 class="font-weight-bold spanborder"><span>About the author</span></h4>
+        <div class="row align-items-center mb-3">
+            <img alt="{{ site.authors.jerry.name }}" src="{{site.baseurl}}/{{ site.authors.jerry.avatar }}" class="rounded-circle" height="100" width="100">
+        </div>
+        <div class="row">
+            <p>{{ site.authors.jerry.bio }}</p>
+            <span><a target="_blank" href="{{ site.authors.jerry.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span>
+        </div>
+    </div>
+</div>
+</div>
